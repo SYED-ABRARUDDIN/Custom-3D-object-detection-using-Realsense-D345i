@@ -12,5 +12,8 @@ This project aims to provide a comprehensive solution for custom object detectio
 ### Output
 ![image](https://github.com/SYED-ABRARUDDIN/Custom-3D-object-detection-using-Realsense-D345i/assets/66572282/0523e8b5-3939-40c5-b555-1aa6dcc8dc38)
 
+https://github.com/SYED-ABRARUDDIN/Custom-3D-object-detection-using-Realsense-D345i/assets/66572282/77ef24ce-249f-4749-9da6-518e43969cc0
+
+
 
 With this project, you can unlock the potential of custom object detection by combining the robustness of YOLOv5 with the depth sensing capabilities of the Intel RealSense D345i camera. Whether you are working on robotics, surveillance, or any other application that requires accurate and efficient object detection, this project will provide you with a solid foundation to build upon.
